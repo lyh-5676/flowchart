@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T14:49:59.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_uBh87MITjS-r1R2EOuM" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T14:50:11.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="-0IJsoiM55d1Pl_Z3ztt" version="24.5.3" type="github">
   <diagram name="第 1 页" id="Zs_ZaR2ghkHN8LJk0DMp">
     <mxGraphModel dx="370" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-25" value="Relationship constrained GEM (rcGEM)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1106" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-26" value="K&lt;sub&gt;r&lt;/sub&gt;: K&lt;sub&gt;r&lt;/sub&gt;&amp;nbsp;values could be 4 types. K&lt;sub&gt;r&lt;/sub&gt;&amp;gt;0, activate one reaction; K&lt;sub&gt;r&lt;/sub&gt;&amp;lt;0, deactivate one reaction; K&lt;sub&gt;r&lt;/sub&gt;=K&lt;sub&gt;cat&lt;/sub&gt;, an enzyme, etc.; 0, no significant relationship.&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-26" value="K&lt;sub&gt;r&lt;/sub&gt;: K&lt;sub&gt;r&lt;/sub&gt;&amp;nbsp;values could be 4 types. K&lt;sub&gt;r&lt;/sub&gt;&amp;gt;0, activate one reaction; K&lt;sub&gt;r&lt;/sub&gt;&amp;lt;0, deactivate one reaction; K&lt;sub&gt;r&lt;/sub&gt;=K&lt;sub&gt;cat&lt;/sub&gt;, an enzyme, etc.; K&lt;sub&gt;r&lt;/sub&gt;=0, no significant relationship.&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="340" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rzJUm0-_hhL29lvpPQFW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzJUm0-_hhL29lvpPQFW-1">
