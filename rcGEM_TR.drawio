@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T15:09:01.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="6VXmXOvAa5698s-BYQeZ" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T15:10:43.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="aLRNsyCSuS3lKIUYeEfO" version="24.5.3" type="github">
   <diagram name="第 1 页" id="Zs_ZaR2ghkHN8LJk0DMp">
     <mxGraphModel dx="433" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-6" value="Amino acid sequences, substrates" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1226" y="290" width="134" height="60" as="geometry" />
+          <mxGeometry x="1226" y="310" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-9" target="Ac4ICfkRYc5ZsgaLKNUM-12" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-15" value="Known GPRs and K&lt;span style=&quot;font-size: 10px;&quot;&gt;r&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="1426" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1426" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-17" target="Ac4ICfkRYc5ZsgaLKNUM-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -75,7 +75,7 @@
           <mxGeometry x="1426" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-21" value="GPRs: In addition to metabolism, relationships between DNA, RNA, proteins, and other molecules, are also key factors should have been considered in GEMs reconstruction. We see all metabolism and regulations are reactions.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="960" y="160" width="250" height="160" as="geometry" />
+          <mxGeometry x="960" y="180" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-22" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-24" target="Ac4ICfkRYc5ZsgaLKNUM-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -98,15 +98,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rzJUm0-_hhL29lvpPQFW-1" value="NCBI,&lt;div&gt;PDB,&lt;br&gt;&lt;div&gt;&amp;nbsp;etc.&lt;/div&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1248" y="160" width="90" height="100" as="geometry" />
+          <mxGeometry x="1248" y="180" width="90" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="rzJUm0-_hhL29lvpPQFW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="rzJUm0-_hhL29lvpPQFW-5">
+        <mxCell id="rzJUm0-_hhL29lvpPQFW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rzJUm0-_hhL29lvpPQFW-5" target="Ac4ICfkRYc5ZsgaLKNUM-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1486" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rzJUm0-_hhL29lvpPQFW-5" value="KEGG,&lt;div&gt;TRANSFAC,&lt;br&gt;&lt;div&gt;&amp;nbsp; etc.&lt;/div&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1440.5" y="160" width="91" height="100" as="geometry" />
+          <mxGeometry x="1440.5" y="180" width="91" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
