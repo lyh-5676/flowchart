@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T15:05:13.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="xUDoW58873Ol7YpFXcbh" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T15:06:19.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="favkMNvets7us7tAY31N" version="24.5.3" type="github">
   <diagram name="第 1 页" id="Zs_ZaR2ghkHN8LJk0DMp">
     <mxGraphModel dx="370" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-6" value="Amino acid sequences, substrates" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-6" value="Amino acid sequences, substrates" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1226" y="290" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-9" target="Ac4ICfkRYc5ZsgaLKNUM-12" edge="1">
@@ -25,7 +25,7 @@
             <mxPoint x="2" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-9" value="3D strutures of all&amp;nbsp;biomacromolecule&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-9" value="3D strutures of all&amp;nbsp;biomacromolecule&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1226" y="410" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-12" target="Ac4ICfkRYc5ZsgaLKNUM-20" edge="1">
@@ -52,7 +52,7 @@
             <mxPoint x="1" y="128" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-15" value="Known GPRs and K&lt;span style=&quot;font-size: 10px;&quot;&gt;r&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-15" value="Known GPRs and K&lt;span style=&quot;font-size: 10px;&quot;&gt;r&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="1426" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-17" target="Ac4ICfkRYc5ZsgaLKNUM-20" edge="1">
@@ -60,7 +60,7 @@
             <mxPoint x="1486" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-17" value="Information of atoms and 3D structures" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-17" value="Information of atoms and 3D structures" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1426" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-20" target="Ac4ICfkRYc5ZsgaLKNUM-24" edge="1">
