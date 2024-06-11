@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T15:06:19.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="favkMNvets7us7tAY31N" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T15:06:59.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="olTET3Wrs8JM9ji0lQC6" version="24.5.3" type="github">
   <diagram name="第 1 页" id="Zs_ZaR2ghkHN8LJk0DMp">
     <mxGraphModel dx="370" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-24" value="Predicted K&lt;sub&gt;r&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1426" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-25" value="Relationship constrained GEM (rcGEM)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-25" value="Relationship constrained GEM (rcGEM)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1106" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-26" value="K&lt;sub&gt;r&lt;/sub&gt;: K&lt;sub&gt;r&lt;/sub&gt;&amp;nbsp;values could be 4 types. K&lt;sub&gt;r&lt;/sub&gt;&amp;gt;0, activate one reaction; K&lt;sub&gt;r&lt;/sub&gt;&amp;lt;0, deactivate one reaction; K&lt;sub&gt;r&lt;/sub&gt;=K&lt;sub&gt;cat&lt;/sub&gt;, an enzyme, etc.; K&lt;sub&gt;r&lt;/sub&gt;=0, no significant relationship.&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
