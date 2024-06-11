@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T14:53:20.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="cQjRdNGmFk7ScsT0MrMW" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T15:02:55.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="mQX1wLY3psIXbobynuaN" version="24.5.3" type="github">
   <diagram name="第 1 页" id="Zs_ZaR2ghkHN8LJk0DMp">
     <mxGraphModel dx="370" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-12" value="Predicted GPRs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-12" value="Predicted GPRs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1226" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-13" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-15" target="Ac4ICfkRYc5ZsgaLKNUM-17" edge="1">
@@ -52,7 +52,7 @@
             <mxPoint x="1" y="128" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-15" value="Known GPRs and K&lt;span style=&quot;font-size: 10px;&quot;&gt;r&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-15" value="Known GPRs and K&lt;span style=&quot;font-size: 10px;&quot;&gt;r&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1426" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-16" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-17" target="Ac4ICfkRYc5ZsgaLKNUM-20" edge="1">
@@ -71,10 +71,10 @@
             <mxPoint x="-2" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-20" value="CNN/RNN Model" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-20" value="CNN/RNN Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1426" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-21" value="GPRs: In addition to metabolism, relationships between DNA, RNA, proteins, and other molecules, are also key factors should have been considered in GEMs reconstruction. We see all metabolism and regulations are reactions.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-21" value="GPRs: In addition to metabolism, relationships between DNA, RNA, proteins, and other molecules, are also key factors should have been considered in GEMs reconstruction. We see all metabolism and regulations are reactions.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="990" y="160" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-22" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ac4ICfkRYc5ZsgaLKNUM-24" target="Ac4ICfkRYc5ZsgaLKNUM-25" edge="1">
@@ -85,13 +85,13 @@
             <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-24" value="Predicted K&lt;sub&gt;r&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-24" value="Predicted K&lt;sub&gt;r&lt;/sub&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1426" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-25" value="Relationship constrained GEM (rcGEM)" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-25" value="Relationship constrained GEM (rcGEM)" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1106" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-26" value="K&lt;sub&gt;r&lt;/sub&gt;: K&lt;sub&gt;r&lt;/sub&gt;&amp;nbsp;values could be 4 types. K&lt;sub&gt;r&lt;/sub&gt;&amp;gt;0, activate one reaction; K&lt;sub&gt;r&lt;/sub&gt;&amp;lt;0, deactivate one reaction; K&lt;sub&gt;r&lt;/sub&gt;=K&lt;sub&gt;cat&lt;/sub&gt;, an enzyme, etc.; K&lt;sub&gt;r&lt;/sub&gt;=0, no significant relationship.&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ac4ICfkRYc5ZsgaLKNUM-26" value="K&lt;sub&gt;r&lt;/sub&gt;: K&lt;sub&gt;r&lt;/sub&gt;&amp;nbsp;values could be 4 types. K&lt;sub&gt;r&lt;/sub&gt;&amp;gt;0, activate one reaction; K&lt;sub&gt;r&lt;/sub&gt;&amp;lt;0, deactivate one reaction; K&lt;sub&gt;r&lt;/sub&gt;=K&lt;sub&gt;cat&lt;/sub&gt;, an enzyme, etc.; K&lt;sub&gt;r&lt;/sub&gt;=0, no significant relationship.&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="990" y="340" width="220" height="160" as="geometry" />
         </mxCell>
         <mxCell id="rzJUm0-_hhL29lvpPQFW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzJUm0-_hhL29lvpPQFW-1">
@@ -99,7 +99,7 @@
             <mxPoint x="1286" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzJUm0-_hhL29lvpPQFW-1" value="NCBI,&lt;div&gt;PDB,&lt;br&gt;&lt;div&gt;&amp;nbsp;etc.&lt;/div&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rzJUm0-_hhL29lvpPQFW-1" value="NCBI,&lt;div&gt;PDB,&lt;br&gt;&lt;div&gt;&amp;nbsp;etc.&lt;/div&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1241" y="160" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rzJUm0-_hhL29lvpPQFW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rzJUm0-_hhL29lvpPQFW-5">
@@ -107,7 +107,7 @@
             <mxPoint x="1486" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzJUm0-_hhL29lvpPQFW-5" value="KEGG,&lt;div&gt;TRANSFAC,&lt;br&gt;&lt;div&gt;&amp;nbsp; etc.&lt;/div&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rzJUm0-_hhL29lvpPQFW-5" value="KEGG,&lt;div&gt;TRANSFAC,&lt;br&gt;&lt;div&gt;&amp;nbsp; etc.&lt;/div&gt;&lt;/div&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1431" y="160" width="110" height="100" as="geometry" />
         </mxCell>
       </root>
